@@ -1,0 +1,5 @@
+.DS_Store
+.vscode*
+tutorial*
+saved_model.h5
+SampleMarketData*

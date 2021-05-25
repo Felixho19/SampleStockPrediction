@@ -1,0 +1,1 @@
+This is a sample project cloning from https://data-flair.training/blogs/stock-price-prediction-machine-learning-project-in-python/ with minor change.
