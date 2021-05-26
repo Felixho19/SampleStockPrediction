@@ -12,7 +12,6 @@ import yfinance as yf
 app = dash.Dash()
 server = app.server
 
-# unused functions
 def getHistoryData(ticker, start, end, interval="1m", dateString="%Y-%m-%d"):
     from datetime import timedelta, datetime
     # Only 7 days worth of 1m granularity data are allowed to be fetched per request.
