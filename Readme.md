@@ -11,4 +11,4 @@ Then run the dashboard to view the graph:
 `python dashboard.py`
 # Feature
 
-[X] Allow user to input ticker name to retrieve yahoo finance stock data to plot the scatter graph.
+- [x] Allow user to input ticker name to retrieve yahoo finance stock data to plot the scatter graph.
